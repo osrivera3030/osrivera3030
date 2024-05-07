@@ -23,7 +23,6 @@
 </p>
 
 ### "Passionate Contributor to Open Source Projects" 🌟
-
 "I'm a big enthusiast of open-source projects! 💻 While I may not be leading major libraries, my passion lies in machine learning, data science, data analysis, and particularly in big data and data engineering. 💡 I engage with projects where I spot opportunities to improve functionalities, especially in areas that might benefit others in these domains. 🛠️ These contributions often address nuances that could be overlooked by those less acquainted with the library. I'm always on the lookout for comprehensive documentation with clear examples to facilitate the onboarding process for new users. 💕"
 
  ---
