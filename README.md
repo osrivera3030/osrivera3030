@@ -24,7 +24,7 @@
 
 ### "Passionate Contributor to Open Source Projects" 🌟
 
-I love the world of open source! 💻 While I may not lead major libraries, I'm deeply committed to machine learning, generative models, data analysis, and data engineering. 💡 I contribute to projects when I identify issues that could assist others in these areas. 🛠️ Often, these are details that might go unnoticed by those less familiar with the library. I'm excited to discover comprehensive documentation with clear examples to ease new user onboarding. 💕
+"Hello! I'm a mechatronics engineer and a data science expert, passionate about research and technological development. 💻🤖 My expertise lies in integrating mechanical and electronic systems with advanced data analytics. If you're interested in exploring the world of machine learning and Python applied to engineering, I invite you to visit my website! 🚀 You can also follow me on my social media channels for access to useful resources and to stay connected."
 
  ---
 --------------------------------------------------------------------------------------------------------------------------
