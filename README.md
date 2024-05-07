@@ -8,7 +8,7 @@
 
 **Hey there** 👋,
 
-"Hello! I'm a mechatronics engineer, passionate researcher, and data engineering expert. 💻🤖 I love sharing knowledge about machine learning and Python. Explore more on my website, and if you find my resources helpful, I invite you to follow me on my social media channels! 🚀"
+"Hello! I'm a mechatronics engineer and a data science expert, passionate about research and technological development. 💻🤖 My expertise lies in integrating mechanical and electronic systems with advanced data analytics. If you're interested in exploring the world of machine learning and Python applied to engineering, I invite you to visit my website! 🚀 You can also follow me on my social media channels for access to useful resources and to stay connected."
 
 <p align='center'>
   <a href="https://www.instagram.com/oscarlive_78/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
