@@ -85,7 +85,7 @@
 ___________________________________________________________________________________________________________________________
 ### A little bit about me🌱
  ---
-<img width="200" align='left' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.colap.io%2Fbi-big-data-data-analytics-puedo-sacarles-provecho-en-mi-empresa-a136c784c199&psig=AOvVaw3J0IY_2yxwN7M-C0vCXrnk&ust=1715181805935000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjp0qjs-4UDFQAAAAAdAAAAABAE">
+<img width="200" align='left' src="https://eikonos.com/wp-content/uploads/2015/02/Big-data-buzz-or-big-data-fuzz-blog-image1.jpg">
 </p>
 
 **Hello everyone!**
