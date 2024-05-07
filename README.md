@@ -19,7 +19,7 @@
  ---
  
 <p>
-  <img width="150" align='left' src="https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/277588797_412850077507633_5206377661943876901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHPm07Ob8X6yuEMQeA2b3JZZeEKGf9H0KVl4QoZ_0fQpRAqIWolEi8gWsP8iElsABV42hryex8iaub0u9Es8hvO&_nc_ohc=oGg6WmTY2bcQ7kNvgFf3k3Y&_nc_ht=scontent.fclo1-3.fna&oh=00_AfD2VYwoe0RMv0w0-qPOADGiGfDjkGrXBpz9LVj-dvZMWQ&oe=66397DE2">
+  <img width="160" align='left' src="https://scontent.fclo1-3.fna.fbcdn.net/v/t39.30808-6/277588797_412850077507633_5206377661943876901_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHPm07Ob8X6yuEMQeA2b3JZZeEKGf9H0KVl4QoZ_0fQpRAqIWolEi8gWsP8iElsABV42hryex8iaub0u9Es8hvO&_nc_ohc=oGg6WmTY2bcQ7kNvgFf3k3Y&_nc_ht=scontent.fclo1-3.fna&oh=00_AfD2VYwoe0RMv0w0-qPOADGiGfDjkGrXBpz9LVj-dvZMWQ&oe=66397DE2">
 </p>
 
 ### "Passionate Contributor to Open Source Projects" 🌟
