@@ -89,11 +89,7 @@ ________________________________________________________________________________
 </p>
 
 **Hello everyone!**
-I'm Angelly, the ML engineer and Data Scientist who brings every line of code to life with a touch of magic. 💻 But don't let my passion for data fool you, I also know how to spice up life beyond the screen! 🌟
-Imagine a superhero of data science, tackling challenges with my superpowers of Python, R, and Scikit-Learn. No data problem can defeat me! 💥
-When I'm not saving the world of data, I love sharing my expertise in Power BI and Tableau, as if I were leading a data analysis party! 🎉
-But it's not all work and no play. From running and doing crossfit to spending time with family, I know how to balance work and play. 💪🏃‍♀️
-So the next time you need a touch of joy and technical prowess in your data projects, you know who to call! I'm Angelly, the queen of data science and fun. 🌟
+Hello everyone! I'm Oscar, the data scientist and data engineering expert who brings every dataset to life with a touch of magic. 💻 But don't be fooled by my passion for data, I also know how to enjoy life beyond the screen! 🌟 Imagine a data science superhero, tackling challenges with my Python, R, and Scikit-Learn superpowers. No data problem can defeat me! 💥 When I'm not saving the data world, I love sharing my expertise in Azure and Power BI, like I'm leading a data analysis party! 🎉 But it's not all work and no play. From running to spending time with family, I know how to balance work and play. 💪🏃‍♂️ So, the next time you need a touch of joy and technical prowess in your data projects, you know who to call! I'm Oscar, the king of data science and fun. 🌟
 <p>
  
 
