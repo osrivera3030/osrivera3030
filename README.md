@@ -23,7 +23,6 @@
 </p>
 
 ### "Passionate Contributor to Open Source Projects" 🌟
-
 "Hello! I'm a mechatronics engineer and a data science expert, passionate about research and technological development. 💻🤖 My expertise lies in integrating mechanical and electronic systems with advanced data analytics. If you're interested in exploring the world of machine learning and Python applied to engineering, I invite you to visit my website! 🚀 You can also follow me on my social media channels for access to useful resources and to stay connected."
 
  ---
