@@ -11,9 +11,9 @@
 "Hello! I'm a mechatronics engineer, passionate researcher, and data engineering expert. 💻🤖 I love sharing knowledge about machine learning and Python. Explore more on my website, and if you find my resources helpful, I invite you to follow me on my social media channels! 🚀"
 
 <p align='center'>
-  <a href="https://www.instagram.com/angellydelgado/"><img height="50" src="https://www.instagram.com/oscarlive_78/"></a>&nbsp;&nbsp;
-    <a href="https://github.com/AngellyD"><img height="50" src="https://github.com/osrivera3030"></a>
-  <a href="https://www.linkedin.com/in/angelly-datascience/"><img height="50" src="https://www.linkedin.com/in/oscarrivera-datascience/"></a>
+  <a href="https://www.instagram.com/oscarlive_78/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://github.com/osrivera3030"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"></a>
+  <a href="https://www.linkedin.com/in/oscarrivera-datascience/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
  ---
